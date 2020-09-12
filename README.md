@@ -13,4 +13,6 @@
 4- Choose Type Of Payment. <br>
 5- Click on Success for payment to be succeed.<br>
 
+ ## Your Payment is Successful.
+
  <img src="lib/assets/test.gif" alt="Gif here">
