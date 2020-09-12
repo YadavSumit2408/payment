@@ -6,4 +6,4 @@
  and All types of UPI.
 
 
- <img src="assets/test.gif" alt="Gif here">
+ <img src="lib/assets/test.gif" alt="Gif here">
